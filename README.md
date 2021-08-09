@@ -1,0 +1,1 @@
+in this project i practiced how to manipulate with data with pandas library.
